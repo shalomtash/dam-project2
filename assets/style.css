@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    margin-top: 200px;
+    background: url(./img/javascript-4523100_1920.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: auto;
+}
